@@ -1,2 +1,2 @@
 # OIBSIP_Landing-page
-This is a project i have done during my internship under oasis infobyte.
+These are the projects I have done during my internship under oasis infobyte.
